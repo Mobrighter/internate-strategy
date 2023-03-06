@@ -1,1 +1,0 @@
-# internate-strategy
